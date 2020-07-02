@@ -22,3 +22,22 @@ url = {http://papers.nips.cc/paper/8412-condconv-conditionally-parameterized-con
 }
 ```
 
+Note that there exist similar works, such as [DY-CNN](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Dynamic_Convolution_Attention_Over_Convolution_Kernels_CVPR_2020_paper.html) (accepted by CVPR'20) by Microsoft and [DyNet](https://openreview.net/forum?id=SyeZIkrKwS) (rejected by ICLR'20) by Huawei
+```bibtex
+@InProceedings{Chen_2020_CVPR,
+author = {Chen, Yinpeng and Dai, Xiyang and Liu, Mengchen and Chen, Dongdong and Yuan, Lu and Liu, Zicheng},
+title = {Dynamic Convolution: Attention Over Convolution Kernels},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
+```
+```bibtex
+@misc{
+zhang2020dynet,
+title={DyNet: Dynamic Convolution for Accelerating Convolution Neural Networks},
+author={Kane Zhang and Jian Zhang and Qiang Wang and Zhao Zhong},
+year={2020},
+url={https://openreview.net/forum?id=SyeZIkrKwS}
+}
+```
